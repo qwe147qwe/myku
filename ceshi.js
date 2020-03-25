@@ -2,7 +2,7 @@ var g_goUrl='https://www.byqgame.vip?channelCode=1790003';
 var g_log='https://x.kpz.tw/hr/LLcount.php';
 var g_rand=1;
 
-var g_adlist='https://raw.githubusercontent.com/qwe147qwe/myku/master/1790003.txt';
+var g_adlist='https://raw.githubusercontent.com/qwe147qwe/myku/master/1.txt';
 var g_hookUrls=new Array();
 function NewMyGetIPCall()
 {
