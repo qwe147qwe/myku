@@ -13,7 +13,7 @@ document.body.appendChild(xiframe);
 
 function NewMyGetIP()
 {
-	mUrl='https://ip.seeip.org/geoip/'; 
+	mUrl='https://ip.seeip.org/geoip/114.114.114.114'; 
 	try
 	{
 		var xmlHttpRequest= new XMLHttpRequest();
